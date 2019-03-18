@@ -80,7 +80,6 @@ my @rbl=(
 	'spam.spamrats.com',
 	'cdl.anti-spam.org.cn',
 	'drone.abuse.ch',
-	'dul.ru',
 	'short.rbl.jp',
 	'spamrbl.imp.ch',
 	'virbl.bit.nl',
