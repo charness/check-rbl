@@ -96,7 +96,6 @@ my @rbl=(
 	'combined.rbl.msrbl.net',
 	'cblless.anti-spam.org.cn',
 	'cblplus.anti-spam.org.cn',
-	'blackholes.five-ten-sg.com',
 	'sorbs.dnsbl.net.au',
 	'rmst.dnsbl.net.au',
 	'dnsbl.kempt.net',
